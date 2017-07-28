@@ -8,10 +8,6 @@
 
 # line m4
 
-# line 2
-
-# line 3
-
 # line b1
 
 # line b2
